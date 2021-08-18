@@ -1,0 +1,17 @@
+@font-face {
+    font-family: Poppins;
+    src: url('./Poppins-Regular.ttf');
+}
+
+*{
+    font-family: 'Poppins';
+    font-size: 14px !important;
+}
+
+.resume-blue{
+    color: #6C63FF;
+}
+
+.resume-bg-blue{
+    background-color: #6C63FF;
+}
